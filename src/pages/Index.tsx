@@ -55,7 +55,7 @@ const Index = () => {
                   size="lg"
                   className="border-border hover:bg-secondary"
                 >
-              <a href="https://github.com/ITbrandon" target="_blank">
+              <a href="https://github.com/ITbrandon/luminex-ui-platform" target="_blank">
              <Code2 size={18} />
               View Documentation
               </a>
