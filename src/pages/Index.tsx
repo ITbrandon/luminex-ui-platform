@@ -7,7 +7,7 @@ import { ButtonShowcase } from "../components/showcases/ButtonShowcase";
 import { ModalShowcase } from "../components/showcases/ModalShowcase";
 import { TableShowcase } from "../components/showcases/TableShowcase";
 import { ToastShowcase } from "../components/showcases/ToastShowcase";
-import { Box, Layers, Code2, Users, ArrowRight, Zap, Sparkles, Shield } from "lucide-react";
+import { Box, Layers, Code2, Users, Zap, Sparkles, Shield } from "lucide-react";
 import { Button } from "../components/ui/button";
 
 const installCode = `npm install @luminex/ui-platform`;
